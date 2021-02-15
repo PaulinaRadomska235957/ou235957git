@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf(">>>Hello, World!\n");
+    //tbd tt
+    printf(">>>[Hello, World!]\n");
 
     printf("jeden\n");
     printf("dwa\n");
