@@ -5,6 +5,7 @@ int main() {
 
     printf("jeden\n");
     printf("dwa\n");
+    printf("trzy\n");
 
     printf("Goodbye, World!\n");
     return 0;
